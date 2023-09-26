@@ -10,7 +10,7 @@ For the development of this software, I used the following tools and technologie
 * HTML: Structure the web page
 * CSS: Style and layout design
 * JavaScript: For the application's logic
-* Spoonacualar API: To gather recipe data based on user input
+* Spoonacular API: To gather recipe data based on user input
 * Visual Studio Code IDE
 
 # Useful Websites
