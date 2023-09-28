@@ -1,7 +1,7 @@
 # Overview
 In this project, I created a web application called "Recipe Finder" to demonstrate my skills in JavaScript programming. This project aims to provide users with a simple tool to search for recipes based on ingredients and cuisine preferences. My goal was to further my learning of JavaScript and web development by building a functional and user-friendly application
 
-[Recipe Finder Demo Video]
+[Recipe Finder Demo Video](https://youtu.be/H0pp2zwEE_E)
 
 # Development Environment
 
