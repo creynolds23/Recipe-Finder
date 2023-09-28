@@ -20,6 +20,7 @@ During the development of this project, I found the following websites helpful:
 * [Spoonacular API Documentation](https://spoonacular.com/food-api/console#Dashboard)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [W3Schools](https://www.w3schools.com/)
+* [Programiz](https://www.programiz.com/javascript)
 
 # Future Work
 
